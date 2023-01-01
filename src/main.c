@@ -39,11 +39,6 @@ int bufferWidth = 50;
 int bufferHeight = 30;
 int bufferRowBytes = 400;
 
-//400 x 240
-//200 x 120
-//100 x 60
-//50 x 30
-
 #ifdef _WINDLL
 __declspec(dllexport)
 #endif
