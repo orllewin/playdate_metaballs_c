@@ -1,0 +1,5 @@
+name=Metaballs (buffered)
+author=Orllewin
+description=Metaballs in C, with offscreen buffer
+bundleID=com.orllewin.metaballs_buffered
+imagePath=
